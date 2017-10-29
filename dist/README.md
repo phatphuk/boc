@@ -6,7 +6,7 @@ As a gesture of gratitude, I'm offering this Grim Reaper Clock screensaver that 
 
 It is an actual working clock. It will synch to the system time of the PC on which it is installed. It was inspired by [_a sobering statistic I recently learned_](http://bit.ly/ReapTwt).
 
-Simply download the [_install.the.reaper.zip_](install.the.reaper.zip) file that you should find in this folder. Unzip the installer. Run it. And you should be good-to-go.
+Simply download the [_install.the.reaper.zip_](https://github.com/phatphuk/boc/raw/master/dist/install.the.reaper.zip) file that you should find in this folder. Unzip the installer. Run it. And you should be good-to-go.
 
 Sorry Mac folk. It only works on Windows. Ironically, I created the clock on my Mac! But the license for my Mac screensaver utility expired.
 
