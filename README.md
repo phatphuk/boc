@@ -10,7 +10,7 @@ Simply download the [_install.the.reaper.zip_](https://github.com/phatphuk/boc/r
 
 Sorry Mac folk. It only works on Windows. Ironically, I created the clock on my Mac! But the license for my Mac screensaver utility expired.
 
-_**Trivia question for the hardcare Prince fans**_: Can you guess what the the sweeping second hand of the clock is? 
+_**Trivia question for the hardcare Prince fans**_: Can you guess what image I used for the second hand of the clock?
 
 Got any questions, answers or suggestions, [_tweet 'em to me_](http://twitter.com/phatphukRrr).
 
